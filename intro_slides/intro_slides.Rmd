@@ -1,0 +1,98 @@
+---
+title: "R in Containers: Rocking Kubernetes"
+author: "Chicago R User Group (CRUG)"
+date: "2019-11-25"
+output:
+  ioslides_presentation:
+    logo: images/Rlogo_transparent.png
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+# library(RUGtools)
+```
+
+## Chicago R User Group (CRUG) {.vcenter .flexbox}
+
+<img src="images/RockerCRUG.png" width="700px"/>
+
+
+## Chicago R User Group (CRUG)
+
+- Welcome new and current useRs to the Ath meetup of the year!
+- We are The Chicago R User Group launched (on Meetup) in 2010!
+- Now reached 3,700 members, one of largest groups in world!
+- We have an R package, [RUGTools](https://justinmshea.github.io/RUGtools/)!
+- We even have a R Shiny app, [CRUG Attendance App](https://parfaitg.shinyapps.io/CRUG_Attendance_App/)!
+
+![](images/open_mic.png)
+
+## Find us:
+
+**Slack**
+![Slack icon](images/slack_50x50.png) 
+[bit.ly/Slack-CRUG](http://bit.ly/Slack-CRUG)
+
+**Twitter**
+![Twitter icon](images/twitter50x41.png)
+[ChicagoRusers](https://twitter.com/ChicagoRusers)
+
+**GitHub**
+![Github icon](images/github.png)
+@[Chicago-R-User-Group](https://github.com/Chicago-R-User-Group)
+
+**Meetup**
+![Meetup icon](images/m_swarm_50x50.png)
+[ChicagoRUG](https://www.meetup.com/ChicagoRUG/)
+
+**Website**
+<img src="images/header-background.png" width="100px">
+[Chicago-r-user-group.github.io](https://chicago-r-user-group.github.io/)
+
+# Upcoming Meetup Events
+
+## 
+
+**R Ladies – Reproducible Workflows for Interactive Visualizations..., Martin John Hadley, December 4th 2019**
+<br/>
+<img src="images/r_ladies.png" width="150px"/>
+
+**CCASA – G-values, Stephen T. Ziliak, December 10th 2019**
+<br/>
+<img src="images/CCASA.jpg" width="150px"/>
+
+
+# Local Tech News
+
+
+## 2nd Quadrant Conference (2QPGConf)
+<img src="images/2QPGConf.png" width="450px">
+
+- Decemeber 4-5, 2019, Chicago - City Center
+- Includes 1-day of training and 1-day of talks
+- https://www.2qpgconf.com/
+
+
+# Anyone hiring R folks? 
+
+# Tonight's Host/Sponsor
+
+<br/>
+
+![](images/IBM-logo-black.png)
+
+
+Thanks IBM for sponsoring with food and beverages!
+
+# Tonight's Event
+
+## {.vcenter .flexbox}
+
+<img src="images/RockerCRUG.png" width="375px"/>
+
+1. **Troy Hernandez**, *Containers for Data Scientists*... a brief intro
+
+2. **Dirk Eddelbuettel**, *The Rocker Project*...  history and a demo
+
+3. **Ray Buhr**, *Rocking Kubernetes*... Shiny app on k8s in the cloud
